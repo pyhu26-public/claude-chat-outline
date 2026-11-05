@@ -1,0 +1,11 @@
+{
+  "name": "claude-chat-outline",
+  "owner": { "name": "pyhu26-public" },
+  "plugins": [
+    {
+      "name": "chat-outline",
+      "source": "./",
+      "description": "대화 목차 패널: 내가 요청한 내용과 Claude 답변 요약을 한눈에 보고, 누르면 그 위치로 이동. 할 일 탭 포함"
+    }
+  ]
+}
