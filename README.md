@@ -34,3 +34,7 @@ claude plugin install chat-outline --marketplace pyhu26-public/claude-chat-outli
 - 대화 기록은 이 컴퓨터 안에서만 읽습니다. 밖으로 보내지 않습니다.
 - 내 할 일과 치워 둔 후보는 Claude Code의 저장소(`$.store`)에 프로젝트 경로별로 저장됩니다.
 - 시험은 `claude plugin test <이 폴더>`로 돌립니다.
+
+## 라이선스
+
+[MIT](LICENSE)
