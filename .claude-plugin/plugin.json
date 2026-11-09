@@ -1,6 +1,6 @@
 {
   "name": "chat-outline",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "대화 목차 패널: 내가 요청한 내용과 Claude 답변 요약을 한눈에 보고, 누르면 그 위치로 이동",
   "license": "MIT",
   "types": "./types/index.d.ts"
